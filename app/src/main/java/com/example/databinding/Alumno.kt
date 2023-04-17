@@ -1,4 +1,5 @@
 package com.example.databinding
 
-class Alumno {
+class Alumno(var nombres: String, var apellidos: String) {
+
 }
